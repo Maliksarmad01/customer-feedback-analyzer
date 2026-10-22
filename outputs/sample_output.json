@@ -1,0 +1,52 @@
+[
+  {
+    "message": "The payment page crashes every time I click 'Checkout' on Chrome. Please fix this ASAP!",
+    "accepted": true,
+    "reason": "Valid customer message",
+    "category": "Bug Report",
+    "priority": "Urgent",
+    "sentiment": "Negative",
+    "product_feature": "Checkout",
+    "suggested_reply": "We're sorry you're experiencing this issue. Thank you for reporting it. Our support team should investigate the problem."
+  },
+  {
+    "message": "Hi team, it would be awesome if you could add a dark mode to the mobile app.",
+    "accepted": true,
+    "reason": "Valid customer message",
+    "category": "Feature Request",
+    "priority": "Medium",
+    "sentiment": "Positive",
+    "product_feature": "Dark Mode",
+    "suggested_reply": "Thank you for sharing your suggestion. We'll record your feedback for our product team to review."
+  },
+  {
+    "message": "Hello, hope you are having a nice day!",
+    "accepted": false,
+    "reason": "Greeting or social pleasantry without customer feedback",
+    "category": null,
+    "priority": null,
+    "sentiment": null,
+    "product_feature": null,
+    "suggested_reply": null
+  },
+  {
+    "message": "Buy now! Limited time offer! Get 50% off today!",
+    "accepted": false,
+    "reason": "Promotional or spam message",
+    "category": null,
+    "priority": null,
+    "sentiment": null,
+    "product_feature": null,
+    "suggested_reply": null
+  },
+  {
+    "message": "I was charged twice for my monthly subscription and need a refund.",
+    "accepted": true,
+    "reason": "Valid customer message",
+    "category": "Billing Issue",
+    "priority": "High",
+    "sentiment": "Negative",
+    "product_feature": "Subscription",
+    "suggested_reply": "We're sorry for the inconvenience with your billing. Our support team should review the details and help resolve it."
+  }
+]

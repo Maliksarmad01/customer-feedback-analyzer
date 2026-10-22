@@ -1,0 +1,6 @@
+﻿message,accepted,reason,category,priority,sentiment,product_feature,suggested_reply
+The payment page crashes every time I click 'Checkout' on Chrome. Please fix this ASAP!,True,Valid customer message,Bug Report,Urgent,Negative,Checkout,We're sorry you're experiencing this issue. Thank you for reporting it. Our support team should investigate the problem.
+"Hi team, it would be awesome if you could add a dark mode to the mobile app.",True,Valid customer message,Feature Request,Medium,Positive,Dark Mode,Thank you for sharing your suggestion. We'll record your feedback for our product team to review.
+"Hello, hope you are having a nice day!",False,Greeting or social pleasantry without customer feedback,,,,,
+Buy now! Limited time offer! Get 50% off today!,False,Promotional or spam message,,,,,
+I was charged twice for my monthly subscription and need a refund.,True,Valid customer message,Billing Issue,High,Negative,Subscription,We're sorry for the inconvenience with your billing. Our support team should review the details and help resolve it.

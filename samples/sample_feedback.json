@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "message": "The payment page crashes every time I click Checkout on Chrome. Please fix this ASAP!"
+    },
+    {
+      "message": "Hi team, it would be awesome if you could add a dark mode to the mobile app."
+    },
+    {
+      "message": "Hello, hope you are having a nice day!"
+    },
+    {
+      "message": "I was charged twice for my subscription and need a refund."
+    },
+    {
+      "message": "Buy now and get 50% off! Limited time offer."
+    }
+  ]
+}
